@@ -14,7 +14,7 @@
 
 .button{
     padding: .8rem 2.2rem;
-    font: normal 500 16px/20px var(--roboto);
+    font: normal 500 16px/20px;
     position: relative;
     border: 3px solid transparent;
     border-radius: 4px;
@@ -58,7 +58,7 @@
 
 p.para{
     color: var(--text-color);
-    font: normal 500 16px/ 25px var(--roboto);
+    font: normal 500 16px/ 25px;
 }
 
 .font-roboto{
@@ -75,7 +75,7 @@ button:hover
 }
 
 .title-h1{
-    font: normal bold 39px/ 40px var(--roboto);
+    font: normal bold 39px/ 40px;
 }
 
 
