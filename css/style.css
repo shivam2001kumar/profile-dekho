@@ -198,7 +198,7 @@
     background: rgba(248, 252, 253, 0.973);
     padding: 2rem 0;
     width: 16rem;
-    margin: 5rem 0rem;
+    margin: 5rem -1rem;
     transition: box-shadow .7s ease;
 }
 
@@ -227,6 +227,7 @@
 .site-main .project-area .button-group button + button{
     padding-left: 3rem;
     padding-right: 3rem;
+    margin-bottom:2rem;
 }
 
 .site-main .project-area .grid .our-project > .title h4{
