@@ -222,12 +222,13 @@
     border: none;
     font: normal 500 16px/130px var(--roboto);
     text-transform: uppercase;
+    margin-bottom:2rem;
 }
 
 .site-main .project-area .button-group button + button{
     padding-left: 3rem;
     padding-right: 3rem;
-    margin-bottom:2rem;
+    
 }
 
 .site-main .project-area .grid .our-project > .title h4{
