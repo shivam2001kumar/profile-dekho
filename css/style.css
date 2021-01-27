@@ -187,7 +187,7 @@
 }
 
 .site-main .services-area .services-title{
-    padding: 0 8rem;
+    padding: 0 14rem;
 }
 
 .site-main .services-area .services-title h1{
@@ -226,6 +226,7 @@
 
 .site-main .project-area .button-group button + button{
     padding-left: 3rem;
+    padding-right: 3rem;
 }
 
 .site-main .project-area .grid .our-project > .title h4{
